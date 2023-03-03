@@ -3,3 +3,4 @@ kind: ConfigMap
 metadata:
   name: configmap-hello
 data:
+  API_MSG: this is a new data
